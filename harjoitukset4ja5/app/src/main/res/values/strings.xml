@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">harjoitukset4ja5</string>
+    <string name="plusMerkki">+</string>
+    <string name="plusNappi">Laske</string>
+    <string name="plusNum2">0</string>
+    <string name="plusTulos">0</string>
+    <string name="plusNum1">0</string>
+    <string name="tyhjennaNappi">Tyhjennä kaikki</string>
+    <string name="logiNappi">Näytä Logi</string>
+</resources>
